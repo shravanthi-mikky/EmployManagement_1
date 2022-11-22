@@ -7,6 +7,7 @@ namespace EmployeeManagement_1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            uc1.EmployeeAttendance();
         }
     }
 }
